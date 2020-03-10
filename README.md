@@ -10,6 +10,7 @@
 
 Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
+<<<<<<< HEAD
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
@@ -97,3 +98,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/gatsbyjs/gatsby-starter-hello-world)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+=======
+One of the developers came into my Full-Stack Web Development class and did a live demo for us. It was *very* effective, hence my use for this site! 
+>>>>>>> fce76fd61b084bc4298ec99d8b346e0e73146ccc
