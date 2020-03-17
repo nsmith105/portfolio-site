@@ -9,6 +9,7 @@ exports.components = {
   "component---src-pages-about-js": hot(preferDefault(require("/Users/Nick/Desktop/Port3/src/pages/about.js"))),
   "component---src-pages-blog-js": hot(preferDefault(require("/Users/Nick/Desktop/Port3/src/pages/blog.js"))),
   "component---src-pages-contact-js": hot(preferDefault(require("/Users/Nick/Desktop/Port3/src/pages/contact.js"))),
-  "component---src-pages-index-js": hot(preferDefault(require("/Users/Nick/Desktop/Port3/src/pages/index.js")))
+  "component---src-pages-index-js": hot(preferDefault(require("/Users/Nick/Desktop/Port3/src/pages/index.js"))),
+  "component---src-pages-my-file-js": hot(preferDefault(require("/Users/Nick/Desktop/Port3/src/pages/my-file.js")))
 }
 

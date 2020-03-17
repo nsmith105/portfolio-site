@@ -5,7 +5,7 @@ export default () => (
     <Layout>
         <h1>Hi! Im building a site</h1>
         <p>
-            What do I like to do? Of course build websites
+            I'm doing it from scratch and documenting how I did it. Also, I have links to my professional stuff too.
         </p>
     </Layout>
 )
